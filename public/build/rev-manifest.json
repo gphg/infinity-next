@@ -3,5 +3,9 @@
   "static/css/panel.css": "static/css/panel-f290e4176c.css",
   "static/css/public.css": "static/css/public-607dca9567.css",
   "static/css/vendor.css": "static/css/vendor-d18068c86e.css",
+<<<<<<< fca4cc33a7bd38d64378bc79c8774ebf02b868e7
   "static/js/app.js": "static/js/app-0df0a456df.js"
+=======
+  "static/js/app.js": "static/js/app-6ffbf0cea0.js"
+>>>>>>> Image hover merge.
 }
